@@ -6,6 +6,15 @@
 
 ### How to run
 
+**Single command from the project root:**
+```
+npm run dev
+```
+
+This starts both the backend and frontend together.
+
+You can also use `npm start` from the project root.
+
 **Backend:**
 cd backend
 npm install
